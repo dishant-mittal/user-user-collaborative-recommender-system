@@ -1,0 +1,51 @@
+prob_id,Tags,created time,votes,comments,description,int(views),soln_time,gov_level,user_id,state,city,solve_id
+1,agriculture,1pm,87,1243,water not available for irrigation,12320,2,2,3,Andra Pradesh,Hyderabad,3
+2,social welfare,2pm,79,5468,sc\st reservation in companies,1839,1,2,3,Arunachal Pradesh,Itangar,3
+3,environment,3pm,83,13135,smoke by factories near by,14836,3,2,8,Assam,Dispur,0
+4,health,4pm,50,10276,unhygenic conditions,3035,0,2,4,Bihar,Patna,2
+5,education,5pm,5,2380,unqualified proffessor,7473,3,2,1,Chhattisgarh,Raipur,0
+6,rural development,6pm,8,8808,bridges safety-propper material,19097,2,2,1,Goa,Panaji,3
+7,tourism,1pm,27,1100,charging extra from foreigners,5194,3,2,6,Gujarat,Gandhinagar,3
+8,culture,2pm,96,6440,,3254,2,2,5,Haryana,Chandigarh,2
+9,social welfare,3pm,2,10522,,11270,1,2,4,Himachal Pradesh,Shimla,2
+10,agriculture,4pm,16,13917,,8461,1,2,4,Jammu and Kashmir,Srinagar and Jammu,3
+11,social welfare,5pm,98,4022,,10317,2,2,11,Jharkhand,Ranchi,2
+12,environment,6pm,98,2301,,8508,3,2,9,Karnataka,Bangalore,3
+13,health,1pm,89,19055,,6099,3,2,17,Kerala,Thiruvananthapuram,3
+14,education,2pm,74,3444,,7258,0,2,2,Madya Pradesh,Bhopal,2
+15,rural development,3pm,3,8916,,3822,2,2,2,Maharashtra,Mumbai,2
+16,tourism,4pm,74,7228,,7978,0,2,7,Manipur,Imphal,1
+17,culture,5pm,26,10338,,2700,0,2,14,Meghalaya,Shillong,1
+18,social welfare,6pm,46,14629,,11412,1,2,19,Mizoram,Aizawi,0
+19,agriculture,1pm,6,596,,5719,0,2,9,Nagaland,Kohima,3
+20,social welfare,2pm,57,488,,10817,2,2,20,Orissa,Bhubaneshwar,2
+21,environment,3pm,42,11612,,4742,1,2,19,Punjab,Chandigarh,3
+22,health,4pm,42,2425,,11508,0,2,3,Rajasthan,Jaipur,2
+23,education,5pm,97,955,,9033,2,2,23,Sikkim,Gangtok,1
+24,rural development,6pm,44,17104,,16911,1,2,7,Tamil Nadu,Chennai,1
+25,tourism,1pm,5,10354,,15673,0,2,14,Tripura,Agartala,2
+26,culture,2pm,2,8680,,10824,0,2,5,Uttaranchal,Dehradun,2
+27,social welfare,3pm,97,6419,,4060,3,2,20,Uttar Pradesh,Lucknow,2
+28,agriculture,4pm,80,6262,,1713,2,2,16,West Bengal,Kolkata,2
+29,social welfare,5pm,51,19107,,12816,0,2,4,Andra Pradesh,Hyderabad,2
+30,environment,6pm,55,7146,,17581,1,2,8,Arunachal Pradesh,Itangar,3
+31,health,1pm,87,7888,,11779,3,2,20,Assam,Dispur,2
+32,education,2pm,53,350,,5137,3,2,5,Bihar,Patna,2
+33,rural development,3pm,84,12615,,19421,3,2,12,Chhattisgarh,Raipur,2
+34,tourism,4pm,14,1023,,6615,3,2,15,Goa,Panaji,3
+35,culture,5pm,66,10626,,8173,0,2,14,Gujarat,Gandhinagar,0
+36,social welfare,6pm,7,14995,,6894,3,2,3,Haryana,Chandigarh,3
+37,agriculture,1pm,59,9832,,5712,1,2,3,Himachal Pradesh,Shimla,2
+38,social welfare,2pm,24,11727,,13368,3,2,20,Jammu and Kashmir,Srinagar and Jammu,0
+39,environment,3pm,67,1436,,10149,1,2,9,Jharkhand,Ranchi,2
+40,health,4pm,55,354,,16983,2,2,17,Karnataka,Bangalore,0
+41,education,5pm,55,5645,,1829,1,2,7,Kerala,Thiruvananthapuram,0
+42,rural development,6pm,29,5458,,466,3,2,7,Madya Pradesh,Bhopal,0
+43,tourism,1pm,54,2656,,5491,2,2,6,Maharashtra,Mumbai,3
+44,culture,2pm,31,4701,,7928,0,2,14,Manipur,Imphal,3
+45,social welfare,3pm,4,8902,,7725,0,2,4,Meghalaya,Shillong,2
+46,agriculture,4pm,25,11573,,9314,1,2,4,Mizoram,Aizawi,2
+47,health,5pm,89,11929,,15907,1,2,3,Nagaland,Kohima,1
+48,education,6pm,46,19241,,10426,0,2,12,Orissa,Bhubaneshwar,0
+49,rural development,1pm,68,6203,,726,2,2,1,Punjab,Chandigarh,2
+50,tourism,2pm,86,12526,,1626,2,2,6,Rajasthan,Jaipur,1
